@@ -1,3 +1,4 @@
+# Exclude document and data files
 *.pdf
 *.docx
 *.csv
